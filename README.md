@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**zhihu: zhihu.com/people/wangduo2014**
+**zhihu: [zhihu.com/people/wangduo2014]**
 
 <!--
 **wduo/wduo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
