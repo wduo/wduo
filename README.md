@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**zhihu: [abnercloud](https://www.zhihu.com/people/wangduo2014 "abnercloud")**
+**知乎: [abnercloud](https://www.zhihu.com/people/wangduo2014 "abnercloud")**
 
 <!--
 **wduo/wduo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
